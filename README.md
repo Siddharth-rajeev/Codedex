@@ -1,1 +1,1 @@
-This has all the code i used for the codedex projects
+This has all the code I used for the codedex projects
